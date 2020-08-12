@@ -25,5 +25,5 @@ async def schedule(ctx, *, time, ta_name):
 async def ping(ctx):
     await ctx.send(f'Latency: {round(client.latency * 1000)} ms')
 
-#TO DO
-client.run('NzQzMDU5ODkzNzA3MDc5NzIw.XzPKdA.rLmHRjoPY5BWxZ25yNAA5PyZ1zY')
+#TO FILL
+client.run('')
